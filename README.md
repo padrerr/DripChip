@@ -1,3 +1,3 @@
 # DripChip
-Download zip
-Open archive
+№1 Download zip
+№2 Open archive
